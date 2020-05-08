@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197182391537",
+    "firebase_url": "https://exampleapp-63493.firebaseio.com",
+    "project_id": "exampleapp-63493",
+    "storage_bucket": "exampleapp-63493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197182391537:android:16b9bfc97a9b01641a9550",
+        "android_client_info": {
+          "package_name": "com.htcthai.exampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197182391537-bjj75r88l8m8qobs8hosvl6nbnnmbv00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsNUin17r1UWBpsQeDxcGO8OzcbeeojJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197182391537-bjj75r88l8m8qobs8hosvl6nbnnmbv00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
