@@ -1,3 +1,4 @@
+import 'package:exampleapp/screens/authen.dart';
 import 'package:exampleapp/screens/my_service.dart';
 import 'package:exampleapp/screens/register.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -66,7 +67,8 @@ class _HomeState extends State<Home> {
         ),
       ),
       onPressed: () {
-        print('Click Sign In!');
+        MaterialPageRoute materialPageRoute = MaterialPageRoute(builder: (BuildContext context) => Authen());
+        Navigator.of(context).push(materialPageRoute);
       },
       color: Colors.red,
       textColor: Colors.white,
